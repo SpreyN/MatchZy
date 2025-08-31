@@ -1,5 +1,18 @@
 # MatchZy Changelog
 
+# 0.8.12
+
+#### August 25, 2025
+
+- Updated CSS Version to fix `.last` and `.throw` commands.
+
+# 0.8.11
+
+#### August 9, 2025
+
+- Updated CSS Version
+- Fixed SmokeGrenadeProjectile Signatures
+
 # 0.8.10
 
 #### May 12, 2025
